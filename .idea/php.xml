@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Vendor/composer" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Controller" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Db" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Di" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Init" />
+    </include_path>
+  </component>
+</project>

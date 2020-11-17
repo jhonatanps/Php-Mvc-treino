@@ -1,0 +1,28 @@
+body{
+    min-height: 75rem;
+    padding-top: 3.5rem;
+}
+
+.link{
+    top: -120px;
+    position: relative;
+    z-index: 5;
+}
+
+.rodape{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #000000;
+    color: #fff;
+    border-radius: 0px;
+    margin-bottom: 0rem !important;
+}
+
+.rodape ul li a.link-rodape{
+    color: #fff !important;
+}.rodape ul li a.link-rodape:hover{
+     color: #adaeaf !important;
+     text-decoration: none;
+ }
+
+

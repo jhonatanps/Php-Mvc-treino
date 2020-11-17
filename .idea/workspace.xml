@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b6bf78c-51b7-412b-8ac8-28748fcf6c46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Vendor/composer" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Controller" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Db" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Di" />
+      <path value="$PROJECT_DIR$/Vendor/SON/Init" />
+      <path value="$PROJECT_DIR$/MVC/Vendor/composer" />
+      <path value="$PROJECT_DIR$/MVC/Vendor/SON/Db" />
+      <path value="$PROJECT_DIR$/MVC/Vendor/SON/Controller" />
+      <path value="$PROJECT_DIR$/MVC/Vendor/SON/Di" />
+      <path value="$PROJECT_DIR$/MVC/Vendor/SON/Init" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jA1GVWtvhdLqJke2qXQ7MJ1We2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Public/css" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cirim\Desktop\MVC\Public\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cirim\Desktop\MVC\Public\js" />
+      <recent name="C:\Users\Cirim\Desktop\MVC\Public\css" />
+      <recent name="C:\Users\SistemasDigitus\Desktop\MVC\App\Views\index" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b6bf78c-51b7-412b-8ac8-28748fcf6c46" name="Default Changelist" comment="" />
+      <created>1603231987652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603231987652</updated>
+      <workItem from="1603231989092" duration="4446000" />
+      <workItem from="1603236712176" duration="554000" />
+      <workItem from="1603237638919" duration="188000" />
+      <workItem from="1603237848350" duration="1678000" />
+      <workItem from="1603239601826" duration="2041000" />
+      <workItem from="1603277076312" duration="44000" />
+      <workItem from="1603835907118" duration="9826000" />
+      <workItem from="1604005694609" duration="10000" />
+      <workItem from="1604530696346" duration="5960000" />
+      <workItem from="1604623486700" duration="669000" />
+      <workItem from="1605046739227" duration="7353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="-602" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603234175551">
+      <screen x="0" y="-768" width="1360" height="728" />
+    </state>
+    <state x="443" y="-602" key="#com.intellij.fileTypes.FileTypeChooser/0.-768.1360.728/0.0.1366.728@0.-768.1360.728" timestamp="1603234175551" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1604624088306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/1366.-137.1280.693/0.0.1366.728@0.0.1366.728" timestamp="1604624088306" />
+    <state x="514" y="-481" key="NewPhpFileDialog" timestamp="1603845331634">
+      <screen x="0" y="-768" width="1360" height="728" />
+    </state>
+    <state x="514" y="-481" key="NewPhpFileDialog/0.-768.1360.728/0.0.1366.728@0.-768.1360.728" timestamp="1603845331634" />
+    <state x="182" y="9" key="SettingsEditor" timestamp="1604623841913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="181" y="-759" key="SettingsEditor/0.-768.1360.728/0.0.1366.728@0.-768.1360.728" timestamp="1603238231470" />
+    <state x="182" y="9" key="SettingsEditor/1366.-137.1280.693/0.0.1366.728@0.0.1366.728" timestamp="1604623841913" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604532528249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/1366.-137.1280.693/0.0.1366.728@0.0.1366.728" timestamp="1604532528249" />
+  </component>
+</project>
